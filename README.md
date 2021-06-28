@@ -2,4 +2,4 @@
 
 ## My name is Haustin. Hello!
 
-	[Google](https://www.google.com)
+[Google](https://www.google.com)
