@@ -18,4 +18,5 @@
 4. Never be afraid to dive in, [Google](https://www.google.com) something, and try it out.
 
 ## Table of Contents
-[Reading Assignment 1](markdown.md)
+[Markdown Lessons Learned](markdown.md)
+[Text Editor Summary and Terminal Cheat Sheet](text-editor.md)
