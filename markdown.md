@@ -7,3 +7,7 @@ We discussed GitHub and created our first live webpage using Markdown.
 Markdown is a simplified version of HTML that focuses on content delivery and less on intense functionality or aestetics.
 
 It prevents you from having to learn a large amount of HTML syntax when all you need is to just to get some general information out.
+
+
+
+[BACK TO MAIN](README.md)
