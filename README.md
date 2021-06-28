@@ -16,3 +16,6 @@
 2. A growth mindset is synonymous with a love of learning.
 3. A growth mindset embraces challenges and learns from criticism.
 4. Never be afraid to dive in, [Google](https://www.google.com) something, and try it out.
+
+##Table of Contents
+[Reading Assignment 1](markdown.md)
