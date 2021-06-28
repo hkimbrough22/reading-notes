@@ -1,6 +1,6 @@
-#Notes for 28 June Assignment 2
+# Notes for 28 June Assignment 2
 
-#Text Editors
+# Text Editors
 ## What is a Text Editor?
 -Writes and manages text, particularly to build a website and/or program
 
