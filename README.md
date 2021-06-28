@@ -6,14 +6,14 @@
 
 ##### Here's some of my 
 
-![Pokemon](D:\Personal\Coding Bootcamp\Images\Pokemon.jpg)
-![Drgaonball Z](D:\Personal\Coding Bootcamp\Images\DBZ.jpg)
+![Pokemon](Pokemon.jpg)
+![Drgaonball Z](Images\DBZ.jpg)
 [Runescape](https://www.runescape.com/community)
 
 
 ### Growth Mindset Reminders
 
-![Growth Mindset](D:\Personal\Coding Bootcamp\Images\Growth.png)
+![Growth Mindset](Images\Growth.png)
 
 1. A growth mindset believes that one’s fundamental abilities can be developed through perseverance and effort; intelligence and talent are simply good starting points.
 2. A growth mindset is synonymous with a love of learning.
