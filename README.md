@@ -10,7 +10,7 @@
 
 ## Growth Mindset Reminders
 
-![Growth Mindset](Images\Growth.png)
+![Growth Mindset](Growth.png)
 
 1. A growth mindset believes that one’s fundamental abilities can be developed through perseverance and effort; intelligence and talent are simply good starting points.
 2. A growth mindset is synonymous with a love of learning.
