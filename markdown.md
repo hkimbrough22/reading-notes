@@ -4,7 +4,7 @@ Today we set up our accounts that allow us as students to track and plan our day
 
 We discussed GitHub and created our first live webpage using Markdown.
 
-Markdown is a simplified version of HTML that focuses on content delivery and less on intense functionality or aestetics.
+Markdown is a simplified version of HTML that focuses on content delivery and less on intense functionality or aesthetics.
 
 It prevents you from having to learn a large amount of HTML syntax when all you need is to just to get some general information out.
 
