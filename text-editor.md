@@ -1,5 +1,6 @@
 #Notes for 28 June Assignment 2
 
+#Text Editors
 ## What is a Text Editor?
 -Writes and manages text, particularly to build a website and/or program
 
@@ -12,3 +13,4 @@
 3. **Variety of themes (to reduce eye strain and fatigue)**
 4. **The ability to choose from a healthy selection of extensions available when you need them**
 
+#Terminal Cheat Sheet
