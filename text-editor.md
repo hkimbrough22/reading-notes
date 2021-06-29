@@ -24,8 +24,8 @@
 - mv = move
 
 ## Useful Functionality of Commands
-+ Entering "cd" and then "enter" takes you to the root directory within the terminal.
-+ Entering "cd" followed by a space and then ".." moves you back one parent folder in the directory.
-+ Entering "cd" followed by a space and then "../" repeated any number of times will move you back that number of times in the directory.
+- Entering "cd" and then "enter" takes you to the root directory within the terminal.
+- Entering "cd" followed by a space and then ".." moves you back one parent folder in the directory.
+- Entering "cd" followed by a space and then "../" repeated any number of times will move you back that number of times in the directory.
 
 [BACK TO HOME](README.md)
