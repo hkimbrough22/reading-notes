@@ -26,4 +26,4 @@
 2. `git commit -m "*narravtive text of changes made*"` - Allows to add a narrative explanation of changes made. Useful for tracking changes done. Like a caption for each snapshot.
 3. `git push origin main` - Syncs changes made on the local system with GitHub.
 
-[BACK TO HOME](README.md)
+[BACK TO MAIN](README.md)
