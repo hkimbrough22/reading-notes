@@ -1,6 +1,6 @@
-#Git Introduction
+# Git Introduction
 
-##What is Git?
+## What is Git?
 
 - Git is a version control system. A Version Control System (VCS) allows you to revisit various versions of a file by recording changes. 
 - Through version control, one can revert a file or project to a previous version, track modifications and modifying individuals, and compare changes
@@ -18,7 +18,7 @@
 - This increases efficiency as third-party coding clients on local systems often have valuable features that fully enable developers.
 - First, you'll need to pull your file from GitHub using `git clone [URL to code]`.
 
-##Breaking Down ACP
+## Breaking Down ACP
 - After adding the file to your system, navigate to it within your terminal and open your code editor.
 - Once editions are done with the specific file, you need to upload it back into GitHub for the useful collaboration described earlier.
 - To do this we:
