@@ -4,7 +4,7 @@
 - Wireframing allows developers to define and plan for the hierarchy of their design for a website or application.
 - When designing knowing where your product puts your information should be done prior to building anything with code. 
 - Wireframing is also a great way to know how a user will interact with your interface without the distractions of colors, font, or styling.
-- When creating a wireframe, some developers like to draw them by hand while others feel more comfortable using some type of software like [Invision](hhttps://www.invisionapp.com/) or [Balsamiq](https://balsamiq.com/).
+- When creating a wireframe, some developers like to draw them by hand while others feel more comfortable using some type of software like [Invision](https://www.invisionapp.com/) or [Balsamiq](https://balsamiq.com/).
 - Here is an example of a hand-drawn wireframe.
 ![Hand-drawn Wireframe](https://careerfoundry.com/en/wp-content/uploads/old-blog-uploads/versions/xsamuel-student-wireframe---x----972-715x---.png.pagespeed.ic.eBpEWaqn7d.webp)
 
