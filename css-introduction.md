@@ -42,3 +42,5 @@
 2. External and internal style sheets (in the head section)
 3. Browser default
 - This means that an inline style will override an external or internal styling.
+
+[BACK TO MAIN](README.md)

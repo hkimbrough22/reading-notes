@@ -24,3 +24,4 @@
 3. [Git Introduction](git-introduction.md)
 4. [HTML Introduction](html-introduction.md)
 5. [CSS Introduction](css-introduction.md)
+6. [Javascript Introduction](javascript-introduction.md)
