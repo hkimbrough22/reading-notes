@@ -22,10 +22,6 @@
 - When a website browser reads a certain style sheet, it will format the HTML document accordingly.
 - There are three ways of inserting a style sheet:
 
-- External CSS
-- Internal CSS
-- Inline CSS
-
 #### External CSS
 - An External CSS is an external style sheet that is linked to the HTML file in the `head` section.
 - With an external style sheet, you can change the style of your entire site through changing one file.
