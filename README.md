@@ -23,3 +23,4 @@
 2. [Text Editor Summary and Terminal Cheat Sheet](text-editor.md)
 3. [Git Introduction](git-introduction.md)
 4. [HTML Introduction](html-introduction.md)
+5. [CSS Introduction](css-introduction.md)
