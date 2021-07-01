@@ -26,3 +26,4 @@
 5. [CSS Introduction](css-introduction.md)
 6. [Javascript Introduction](javascript-introduction.md)
 7. [Javascript Continued](javascript-cont.md)
+8. [Javascript Loops](javascript-loops.md)
