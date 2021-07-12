@@ -20,21 +20,21 @@
 4. Never be afraid to dive in, [Google](https://www.google.com) something, and try it out.
 
 ## Code 201 - Table of Contents
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
-11. 
-12. 
-13. 
-14. 
-15. 
+1. [Introduction to 201 - HTML and Javascript](class-01.md)
+2. [Class 2](class-02.md)
+3. [Class 3](class-03.md)
+4. [Class 4](class-04.md)
+5. [Class 5](class-05.md)
+6. [Class 6](class-06.md)
+7. [Class 7](class-07.md)
+8. [Class 8](class-08.md)
+9. [Class 9](class-09.md)
+10. [Class 10](class-10.md)
+11. [Class 11](class-11.md)
+12. [Class 12](class-12.md)
+13. [Class 13](class-13.md)
+14. [Class 14](class-14.md)
+15. [Class 15](class-15.md)
 
 
 
