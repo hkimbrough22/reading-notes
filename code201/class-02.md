@@ -56,4 +56,4 @@ Text can be shown in HTML using several different ways.
 - JS uses arithmetic, if statements, and loops to perform many operations and produce a function.
 - Loops check to see if a statement returns `true`, if it does the code runs again, if it returns `false` the code stops.
 
-[BACK TO HOME](/mnt/c/Users/haust/codefellows/code201/reading-notes/README.md)
+[BACK TO HOME](README.md)
