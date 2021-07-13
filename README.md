@@ -20,7 +20,7 @@
 4. Never be afraid to dive in, [Google](https://www.google.com) something, and try it out.
 
 ## Code 201 - Table of Contents
-1. [Introduction to 201 - HTML and Javascript](code201/class-01.md)
+1. [Introduction to HTML and Javascript](code201/class-01.md)
 2. [Class 2](code201/class-02.md)
 3. [Class 3](code201/class-03.md)
 4. [Class 4](code201/class-04.md)
@@ -41,11 +41,11 @@
 ## Code 102 Reading Notes
 
 ### Code 102 - Table of Contents
-1. [Markdown Lessons Learned](markdown.md)
-2. [Text Editor Summary and Terminal Cheat Sheet](text-editor.md)
-3. [Git Introduction](git-introduction.md)
-4. [HTML Introduction](html-introduction.md)
-5. [CSS Introduction](css-introduction.md)
-6. [Javascript Introduction](javascript-introduction.md)
-7. [Javascript Continued](javascript-cont.md)
-8. [Javascript Loops](javascript-loops.md)
+1. [Markdown Lessons Learned](code102/markdown.md)
+2. [Text Editor Summary and Terminal Cheat Sheet](code102/text-editor.md)
+3. [Git Introduction](code102/git-introduction.md)
+4. [HTML Introduction](code102/html-introduction.md)
+5. [CSS Introduction](code102/css-introduction.md)
+6. [Javascript Introduction](code102/javascript-introduction.md)
+7. [Javascript Continued](code102/javascript-cont.md)
+8. [Javascript Loops](code102/javascript-loops.md)
