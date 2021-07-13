@@ -40,3 +40,5 @@
 - Event - ways that users interact with objects. computer's way of saying "hey, this just happened!"
 - Methods - represent how people or other things interact with the object in the real world. Can tell you something about an object or change an objects value.
 - Example would be `document.write('Hello World!");`, where `document` would be the object and `write('Hello World!)` would be the method. The `.` is the allows access to the object's members and methods.
+
+[BACK TO HOME](README.md)
