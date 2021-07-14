@@ -22,7 +22,7 @@
 ## Code 201 - Table of Contents
 1. [Introduction to HTML and Javascript](code201/class-01.md)
 2. [Basics of HTML, CSS, and JS](code201/class-02.md)
-3. [Class 3](code201/class-03.md)
+3. [HTML Lists, Control Flow with JS, and the CSS Box Model](code201/class-03.md)
 4. [Class 4](code201/class-04.md)
 5. [Class 5](code201/class-05.md)
 6. [Class 6](code201/class-06.md)
