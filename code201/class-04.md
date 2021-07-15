@@ -6,9 +6,7 @@
  - The link calls for a reference location and what the user will see to be able to go to the reference location.
  - You can link to other sites, other locations in the current site, pictures, email, and others.
  - You can open the link in a new tab on the browser by using the `target` attribute and assigning it to `_blank`.
-
-
-
+ 
  ### CSS
  - CSS treats each HTML element as if it is in its own box.
  - The box will either be block-level or inline.
@@ -20,14 +18,13 @@
  - You can create multi-column layouts using `float` and `div`.
  - Fixed-width layout (pixels) versus Liquid layout (percentages) - Page 393 of book!
 
-
- ### JS
+### JS
  - Functions let you group a series of statements together to perform specific tasks.
  - If different parts of a script repeat the same task, you can reuse the function.
  - You must declare the function and then call the function.
  - You can give parameters for the function that need certain information to operate.
 
- #### Scope
+#### Scope
  - The location where you declare a variable will affect where it can be used within your code.
  - If you declare it within a function, it can only be used within that function (scope).
  - Variables are local (var), global (declared outside of a function).
