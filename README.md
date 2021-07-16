@@ -24,7 +24,7 @@
 2. [Basics of HTML, CSS, and JS](code201/class-02.md)
 3. [HTML Lists, Control Flow with JS, and the CSS Box Model](code201/class-03.md)
 4. [HTML Links, JS Functions, and Intro to CSS Layout](code201/class-04.md)
-5. [Class 5](code201/class-05.md)
+5. [Images, Color, Text](code201/class-05.md)
 6. [Class 6](code201/class-06.md)
 7. [Class 7](code201/class-07.md)
 8. [Class 8](code201/class-08.md)
