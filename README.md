@@ -29,7 +29,7 @@
 7. [Object-Oriented Programming and HTML Tables](code201/class-07.md)
 8. [CSS Layout](code201/class-08.md)
 9. [Forms and JS Events](code201/class-09.md)
-10. [Class 10](code201/class-10.md)
+10. [Debugging](code201/class-10.md)
 11. [Class 11](code201/class-11.md)
 12. [Class 12](code201/class-12.md)
 13. [Class 13](code201/class-13.md)
