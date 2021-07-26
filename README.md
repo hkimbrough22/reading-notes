@@ -30,7 +30,7 @@
 8. [CSS Layout](code201/class-08.md)
 9. [Forms and JS Events](code201/class-09.md)
 10. [Debugging](code201/class-10.md)
-11. [Class 11](code201/class-11.md)
+11. [Audio, Video, and Images](code201/class-11.md)
 12. [Class 12](code201/class-12.md)
 13. [Class 13](code201/class-13.md)
 14. [Class 14](code201/class-14.md)
