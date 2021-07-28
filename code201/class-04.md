@@ -1,5 +1,5 @@
 # Code 201 - Reading Notes
-<!-- All notes were taken from Reading assignment 4 references in Jon Duckett's book -->
+<!-- All notes were taken from Reading assignment 4 references in Jon Duckett's book and online references-->
 ## HTML Links, JS Functions, and Intro to CSS Layout
 ### HTML
  - Links are created using the `a` and `href` tags

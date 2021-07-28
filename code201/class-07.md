@@ -1,5 +1,5 @@
 # Code 201 - Reading Notes
-<!-- All notes were taken from Reading assignment 7 references in Jon Duckett's book -->
+<!-- All notes were taken from Reading assignment 7 references in Jon Duckett's book and online references-->
 ## Object-Oriented Programming and HTML Tables
 ### Tables
 - Represents information in a grid format.

@@ -1,5 +1,5 @@
 # Code 201 - Reading Notes
-<!-- All notes were taken from Reading assignment 9 references in Jon Duckett's book -->
+<!-- All notes were taken from Reading assignment 9 references in Jon Duckett's book and online references-->
 ## Forms and JS Events
 ### Forms
 ### Lists, Tables, and Forms

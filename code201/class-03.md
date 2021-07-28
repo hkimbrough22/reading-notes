@@ -1,5 +1,5 @@
 # Code 201 - Reading Notes
-<!-- All notes were taken from Reading assignment 2 references in Jon Duckett's book -->
+<!-- All notes were taken from Reading assignment 2 references in Jon Duckett's book and online references-->
 ## HTML Lists, Control Flow with JS, and the CSS Box Model
 ### HTML
 - There are three type of HTML lists.

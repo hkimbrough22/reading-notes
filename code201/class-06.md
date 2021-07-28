@@ -1,5 +1,5 @@
 # Code 201 - Reading Notes
-<!-- All notes were taken from Reading assignment 6 references in Jon Duckett's book -->
+<!-- All notes were taken from Reading assignment 6 references in Jon Duckett's book and online references-->
 ## Problem Domain, Objects, and the DOM
 ### Const
 - A constant variable. To be used when we have a variable set to a value that never changes.

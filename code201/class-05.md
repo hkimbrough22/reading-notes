@@ -1,5 +1,5 @@
 # Code 201 - Reading Notes
-<!-- All notes were taken from Reading assignment 5 references in Jon Duckett's book -->
+<!-- All notes were taken from Reading assignment 5 references in Jon Duckett's book and online references-->
 ## Images, Color, Text
 ### Images
 - you can control height and width of images

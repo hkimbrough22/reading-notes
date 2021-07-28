@@ -1,5 +1,5 @@
 # Code 201 - Reading Notes
-<!-- All notes were taken from Reading assignment 11 references in Jon Duckett's book -->
+<!-- All notes were taken from Reading assignment 11 references in Jon Duckett's book and online references -->
 ## Audio, Video, and Images
 ### Images
 - Use `height` and `width` properties for images to help websites load quicker. Telling the website how much space to allocate even before the picture is downloaded helps.

@@ -1,5 +1,5 @@
 # Code 201 - Reading Notes
-<!-- All notes were taken from Reading assignment 10 references in Jon Duckett's book -->
+<!-- All notes were taken from Reading assignment 10 references in Jon Duckett's book and online references-->
 ## Debugging
 ### The Console and Dev Tools
 - Understand order of execution, execution context, and variable scope

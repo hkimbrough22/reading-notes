@@ -1,5 +1,5 @@
 # Code 201 - Reading Notes
-<!-- All notes were taken from Reading assignment 8 references in Jon Duckett's book -->
+<!-- All notes were taken from Reading assignment 8 references in Jon Duckett's book and online references-->
 ## CSS Layout
 - CSS treats each HTML element as if it is in its own box.
 - The box will either be block-level or inline.
