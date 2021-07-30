@@ -34,7 +34,7 @@
 12. [Chart.js and Canvas](code201/class-12.md)
 13. [Local Storage](code201/class-13.md)
 14. [Transform, Transitions, Animations](code201/class-14.md)
-15. [Class 15](code201/class-15.md)
+15. [Google's Study of Effective Teams](code201/class-15.md)
 
 
 
