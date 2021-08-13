@@ -1,11 +1,17 @@
 <!-- This is a website about myself with links to my notes on reading assignments for Code 201 at Codefellows. -->
 
-# Code 201 Reading Notes 
+# Reading Notes
+
 ## Hello!
+
 - My name is Haustin Kimbrough. I currently reside in Vail, Arizona with my wife and newbown daughter, **Winter Sofia**. I am originally from Tennessee, but being an Army brat and, eventually, a soldier myself, I found my way to Arizona.  I am currently an educator of Human Intelligence Collectors at Fort Huachuca, AZ, but will soon be leaving my position to pursue the **Code Fellows** program fully.
 - I love video games and all things nastalgia. The ~~80's~~ 90s was the best! [Runescape](https://www.runescape.com/community), Pokemon, and *Dragonball Z* often come to mind!
 ![Pokemon!](https://bestreamer.com/wp-content/uploads/2019/12/01-Bulbasaur-Charmander-Squirtle.jpg)
 - Please check out my GitHub [profile](https://github.com/hkimbrough22/)!
+
+### This Site
+
+ This site is a description of lessons learned from the different reading assignments given at Code Fellows for each of the available classes.
 
 ## Growth Mindset
 ![Growth Mindset](Growth.png)
@@ -19,7 +25,30 @@
 3. A growth mindset embraces challenges and learns from criticism.
 4. Never be afraid to dive in, [Google](https://www.google.com) something, and try it out.
 
-## Code 201 - Table of Contents
+## Code 401 - Advanced Software Development
+
+Coming Soon!
+
+## Code 301 - Intermediate Software Development
+
+1. [Class 1](code301/class-01.md)
+2. [Class 2](code301/class-02.md)
+3. [Class 3](code301/class-03.md)
+4. [Class 4](code301/class-04.md)
+5. [Class 5](code301/class-05.md)
+6. [Class 6](code301/class-06.md)
+7. [Class 7](code301/class-07.md)
+8. [Class 8](code301/class-08.md)
+9. [Class 9](code301/class-09.md)
+10. [Class 10](code301/class-10.md)
+11. [Class 11](code301/class-11.md)
+12. [Class 12](code301/class-12.md)
+13. [Class 13](code301/class-13.md)
+14. [Class 14](code301/class-14.md)
+15. [Class 15](code301/class-15.md)
+
+## Code 201 - Foundations of Software Development
+
 1. [Introduction to HTML and Javascript](code201/class-01.md)
 2. [Basics of HTML, CSS, and JS](code201/class-02.md)
 3. [HTML Lists, Control Flow with JS, and the CSS Box Model](code201/class-03.md)
@@ -36,11 +65,8 @@
 14. [Transform, Transitions, Animations](code201/class-14.md)
 15. [Google's Study of Effective Teams](code201/class-15.md)
 
+## Code 102 - Intro to Software Development
 
-
-## Code 102 Reading Notes
-
-### Code 102 - Table of Contents
 1. [Markdown Lessons Learned](code102/markdown.md)
 2. [Text Editor Summary and Terminal Cheat Sheet](code102/text-editor.md)
 3. [Git Introduction](code102/git-introduction.md)
