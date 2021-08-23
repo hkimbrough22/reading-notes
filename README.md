@@ -36,7 +36,7 @@ Coming Soon!
 3. [Passing Functions as Props](code301/class-03.md)
 4. [React and Forms](code301/class-04.md)
 5. [Putting It All Together](code301/class-05.md)
-6. [Class 6](code301/class-06.md)
+6. [NODE.JS](code301/class-06.md)
 7. [Class 7](code301/class-07.md)
 8. [Class 8](code301/class-08.md)
 9. [Class 9](code301/class-09.md)
