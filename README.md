@@ -39,7 +39,7 @@ Coming Soon!
 6. [NODE.JS](code301/class-06.md)
 7. [REST](code301/class-07.md)
 8. [API](code301/class-08.md)
-9. [Class 9](code301/class-09.md)
+9. [Functional Programming](code301/class-09.md)
 10. [Class 10](code301/class-10.md)
 11. [Class 11](code301/class-11.md)
 12. [Class 12](code301/class-12.md)
