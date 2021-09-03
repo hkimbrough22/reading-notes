@@ -45,7 +45,7 @@ Coming Soon!
 12. [CRUD](code301/class-12.md)
 13. [Diversity & Inclusion in the Tech Industry](code301/class-13.md)
 14. [Class 14](code301/class-14.md)
-15. [Class 15](code301/class-15.md)
+15. [No Reading!](code301/class-15.md)
 
 ## Code 201 - Foundations of Software Development
 

@@ -1,5 +1,5 @@
 # Code 301 - Reading Notes
 
-## Assignment Name
+## No Assignment! Project Week Prep!
 
 [BACK TO HOME](../README.md)
