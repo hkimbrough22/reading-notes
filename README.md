@@ -28,7 +28,7 @@
 ## Code 401 - Advanced Software Development
 
 1. [Java Basics](./code401/read01.md)
-2. [Reading 02](./code401/read02.md)
+2. [Arrays, Loops, Imports](./code401/read02.md)
 3. [Reading 03](./code401/read03.md)
 4. [Reading 04](./code401/read04.md)
 5. [Reading 05](./code401/read05.md)

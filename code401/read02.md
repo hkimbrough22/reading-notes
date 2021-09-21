@@ -5,8 +5,9 @@ assignment 02 -->
 
 <!-- https://perso.ensta-paris.fr/~diam/java/online/notes-java/language/10basics/import.html -->
 <!-- https://www.baeldung.com/java-loops -->
+## Arrays, Loops, Imports
 
-## Java Imports
+### Java Imports
 
 - Package = directory. Java classes can be grouped together in packages. A package name is the same as the directory (folder) name which contains the .java files. You declare packages when you define your Java program, and you name the packages you want to use from other libraries in an import statement.
 
@@ -27,7 +28,7 @@ There are 166 packages containing 3279 classes and interfaces in Java 5. However
 - `import java.text.*;` Some formatting classes.
 - `import java.util.regex.*;` Regular expression classes.
 
-## Loops
+### Loops
 
 - Looping is a feature which executes a set of instructions until the controlling Boolean-expression evaluates to false.
 
