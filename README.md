@@ -31,7 +31,7 @@
 2. [Arrays, Loops, Imports](./code401/read02.md)
 3. [Maps, Primitives, File I/O](./code401/read03.md)
 4. [OOP](./code401/read04.md)
-5. [Reading 05](./code401/read05.md)
+5. [Linked List](./code401/read05.md)
 6. [Reading 06](./code401/read06.md)
 7. [Reading 07](./code401/read07.md)
 8. [Reading 08](./code401/read08.md)
