@@ -35,7 +35,7 @@
 6. [Inheritance and Interfaces](./code401/read06.md)
 7. [Inheritance](./code401/read07.md)
 8. [OO Design](./code401/read08.md)
-9. [Reading 09](./code401/read09.md)
+9. [WRRC and Java](./code401/read09.md)
 10. [Reading 10](./code401/read10.md)
 11. [Spring](./code401/read11.md)
 12. [Reading 12](./code401/read12.md)
