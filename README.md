@@ -39,7 +39,7 @@
 10. [Stacks and Queues](./code401/read10.md)
 11. [Spring](./code401/read11.md)
 12. [Spring RESTful Routing & Static Files](./code401/read12.md)
-13. [Reading 13](./code401/read13.md)
+13. [Related Resources and Integration Testing](./code401/read13.md)
 14. [Reading 14](./code401/read14.md)
 15. [Reading 15](./code401/read15.md)
 16. [Reading 16](./code401/read16.md)
