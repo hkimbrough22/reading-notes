@@ -55,7 +55,7 @@
 26. [Reading 26](./code401/read26.md)
 27. [Intents, Activities, and SharedPreferences](./code401/read27.md)
 28. [RecyclerView](./code401/read28.md)
-29. [Reading 29](./code401/read29.md)
+29. [Room](./code401/read29.md)
 30. [Reading 30](./code401/read30.md)
 31. [Reading 31](./code401/read31.md)
 32. [Reading 32](./code401/read32.md)
