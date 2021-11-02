@@ -58,7 +58,7 @@
 29. [Room](./code401/read29.md)
 30. [Hash Tables](./code401/read30.md)
 31. [Espresso](./code401/read31.md)
-32. [Reading 32](./code401/read32.md)
+32. [Serverless](./code401/read32.md)
 33. [Reading 33](./code401/read33.md)
 34. [Reading 34](./code401/read34.md)
 35. [Reading 35](./code401/read35.md)
