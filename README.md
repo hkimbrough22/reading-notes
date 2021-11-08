@@ -61,7 +61,7 @@
 32. [Serverless](./code401/read32.md)
 33. [GraphQL @connection](./code401/read33.md)
 34. [Monetization Model with Android](./code401/read34.md)
-35. [Reading 35](./code401/read35.md)
+35. [Graphs](./code401/read35.md)
 36. [Reading 36](./code401/read36.md)
 37. [Reading 37](./code401/read37.md)
 38. [Reading 38](./code401/read38.md)
