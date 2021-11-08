@@ -52,7 +52,7 @@
 23. [No Reading](./code401/read23.md)
 24. [No Reading](./code401/read24.md)
 25. [No Reading](./code401/read25.md)
-26. [Reading 26](./code401/read26.md)
+26. [Android Fundamentals](./code401/read26.md)
 27. [Intents, Activities, and SharedPreferences](./code401/read27.md)
 28. [RecyclerView](./code401/read28.md)
 29. [Room](./code401/read29.md)
