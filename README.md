@@ -63,7 +63,7 @@
 34. [Monetization Model with Android](./code401/read34.md)
 35. [Graphs](./code401/read35.md)
 36. [Amplify and Cognito](./code401/read36.md)
-37. [Reading 37](./code401/read37.md)
+37. [Simple Storage Service (S3)](./code401/read37.md)
 38. [Reading 38](./code401/read38.md)
 39. [Reading 39](./code401/read39.md)
 40. [Reading 40](./code401/read40.md)
