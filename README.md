@@ -64,7 +64,7 @@
 35. [Graphs](./code401/read35.md)
 36. [Amplify and Cognito](./code401/read36.md)
 37. [Simple Storage Service (S3)](./code401/read37.md)
-38. [Reading 38](./code401/read38.md)
+38. [Intent Filters](./code401/read38.md)
 39. [Reading 39](./code401/read39.md)
 40. [Reading 40](./code401/read40.md)
 41. [Reading 41](./code401/read41.md)
